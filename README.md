@@ -27,6 +27,7 @@ yadvi@yadvi:~# espeak "💙I love LINUX💙"
 - Web Technologies(Frontend+Backend)
 - C
 - Javascript
+- Red Hat Linux
 ## ⚡ Fun fact: 
 I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇
 
