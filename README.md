@@ -1,5 +1,5 @@
 ## Ahola 👋 Peeps!
-
+![Farmers Market Finder Demo](blushing.gif)
 <!--
 **yadvi12/yadvi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
