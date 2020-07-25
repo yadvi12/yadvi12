@@ -1,5 +1,4 @@
 ## Ahola 👋 Peeps!
-![alt-text](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 <!--
 **yadvi12/yadvi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ✨I love anything that has to do with programming and Web Development. Well anything with technology i should say! . I believe in the power of programming to transform and improve the lives of people around the world. Luckily, I'm obsessed with staying organized and making everyone's life easier. I educate, refine and drive myself to be a better person. As a Computer Science cyber security student in SRM Institute of Science and Technology, Chennai. And if you thought that i am good at creativity, i couldn't help appreciating your beautiful imagination!✨
-
+![alt-text](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
 ```sh
 yadvi@yadvi:~# sudo apt-get install espeak
