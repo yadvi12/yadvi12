@@ -33,7 +33,7 @@ I’ll tell you a DNS joke but be advised, it could take up to 24 hours for ever
 
 ## My Interests:
 - Listening to music
-- Travelling to new places
+- Travelling to new places✈️
 - Cooking
 - Trekking
 
