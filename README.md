@@ -22,13 +22,13 @@ yadvi@yadvi:~# sudo apt-get install espeak
 yadvi@yadvi:~# espeak "💙I love LINUX💙"
 ```
 
-# 💻Technologies I Know:
+## 💻Technologies I Know:
 - Python
 - Web Technologies(Frontend+Backend)
 - C
 - Javascript
 - Red Hat Linux
-# ⚡Fun fact: 
+## ⚡Fun fact: 
 I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇
 
 ## 🎧My Interests:
