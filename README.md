@@ -28,10 +28,10 @@ yadvi@yadvi:~# espeak "💙I love LINUX💙"
 - C
 - Javascript
 - Red Hat Linux
-## ⚡ Fun fact: 
+## ⚡Fun fact: 
 I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇
 
-## My Interests:
+## 🎧My Interests:
 - Listening to music
 - Travelling to new places
 - Cooking
