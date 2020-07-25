@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 
 ```sh
+yadvi@yadvi:~# whoami
+yadvi
 yadvi@yadvi:~# sudo apt-get install espeak
 yadvi@yadvi:~# espeak "💙I love LINUX💙"
 ```
