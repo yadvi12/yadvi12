@@ -23,7 +23,7 @@ yadvi@yadvi:~# espeak "💙I love LINUX💙"
 ```
 
 ## 💻Technologies I Know:
-- Python
+- # Python
 - Web Technologies(Frontend+Backend)
 - C
 - Javascript
