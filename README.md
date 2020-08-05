@@ -40,6 +40,8 @@ I’ll tell you a DNS joke but be advised, it could take up to 24 hours for ever
 - Trekking
 
 ## 📞Let's Connect:
-Reach me at yadvibhalla2002@gmail.com
+E-mail: yadvibhalla2002@gmail.com
 
 Twitter: https://twitter.com/ivday21
+
+Linkedin: www.linkedin.com/in/yadvibhalla1210
