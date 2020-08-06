@@ -23,15 +23,15 @@ yadvi@yadvi:~# espeak "💙I love LINUX💙"
 ```
 
 ## 💻Technologies I Know:
-- Python
-- Web Technologies(Frontend+Backend)
-- C
-- Javascript
-- RHEL 8
-- Linux
-- Docker(Beginner)
+- **Python**
+- **Web Technologies(Frontend+Backend)**
+- **C**
+- **Javascript**
+- **RHEL 8**
+- **Linux**
+- **Docker(Beginner)**
 ## ⚡Fun fact: 
-I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇
+***I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇***
 
 ## 🎧My Interests:
 - Listening to music
@@ -40,8 +40,8 @@ I’ll tell you a DNS joke but be advised, it could take up to 24 hours for ever
 - Trekking
 
 ## 📞Let's Connect:
-E-mail: yadvibhalla2002@gmail.com
+**E-mail**: yadvibhalla2002@gmail.com
 
-Twitter: https://twitter.com/ivday21
+**Twitter**: https://twitter.com/ivday21
 
-Linkedin: www.linkedin.com/in/yadvibhalla1210
+**Linkedin**: www.linkedin.com/in/yadvibhalla1210
