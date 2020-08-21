@@ -45,3 +45,5 @@ yadvi@yadvi:~# espeak "💙I love LINUX💙"
 **Twitter**: https://twitter.com/ivday21
 
 **Linkedin**: www.linkedin.com/in/yadvibhalla1210
+
+**Medium**: https://medium.com/@iivday21
