@@ -33,14 +33,14 @@ yadvi@yadvi:~# espeak "💙I love LINUX💙"
 - **Docker(Beginner)**
 ## ⚡Fun fact: 
 ***I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇***
-
+<p align="center">
 ## 🎧My Interests:
 - **Listening to music**
 - **Writing Technical Blogs**
 - **Travelling to new places**
 - **Cooking**
 - **Trekking**
-
+</p>
 
 
 
