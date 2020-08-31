@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   </p>
   <p align="center">
   <u><b>Languages used in projects</b></u><br /><br />
-  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)](https://github.com/yadvi12/github-readme-stats)" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
   </p>
   
 <hr>
