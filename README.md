@@ -43,7 +43,7 @@ yadvi@yadvi:~# espeak "💙I love LINUX💙"
 </p>
 
 <p align="center">
-  <i>My Interests</i>
+  <i>My Interests</i><br />
   <i>My Interests</i>
 <hr>
 <p align="center">
