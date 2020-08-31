@@ -35,6 +35,7 @@ yadvi@yadvi:~# espeak "💙I love LINUX💙"
 
 ## 🎧My Interests:
 - **Listening to music**
+- **Writing Technical Blogs**
 - **Travelling to new places**
 - **Cooking**
 - **Trekking**
