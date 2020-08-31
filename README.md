@@ -42,8 +42,9 @@ yadvi@yadvi:~# espeak "💙I love LINUX💙"
 - **Trekking**
 </p>
 
-
-
+<p align="center">
+  <i>My Interests</i>
+  <i>My Interests</i>
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to collaborate.</i>
