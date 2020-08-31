@@ -45,7 +45,7 @@ yadvi@yadvi:~# espeak "💙I love LINUX💙"
 
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Let's connect and chat! Open to collaborate.</i>
 
   <p align="center">
     <a href="https://twitter.com/ivday21" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
