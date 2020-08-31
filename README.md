@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <p align="center">
  
-  <b><i>I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇</i></b>
+  <b>I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇</b>
   </p>
   
   ## My Interests:
