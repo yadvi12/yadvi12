@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 <hr>
 <p align="center">
   <u><b>Stats</b></u><br />
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=radical" alt="stats">
   </p>
-   ![Yadvi's stats](https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=radical)
+  
 <hr>
 <p align="center">
   <u><b>Fun Fact</b></u><br />
