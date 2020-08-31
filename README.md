@@ -34,9 +34,9 @@ yadvi@yadvi:~# espeak "💙I love LINUX💙"
 ## ⚡Fun fact: 
 ***I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇***
 
-
+<hr>
 <p align="center">
-  <i>My Interests</i><br />
+  <u><b>My Interests</b></u><br />
  <i>Listening to music</i><br />
  <i>Writing Technical Blogs</i><br />
  <i>Trekking</i><br />
