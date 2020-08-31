@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <hr>
 <p align="center">
-  <u><b>Tech I know</b></u><br />
+  <u><b>Tech I know</b></u><br /><br />
  <i>Python</i><br />
  <i>Web Technologies(Frontend+Backend)</i><br />
  <i>C</i><br />
@@ -44,12 +44,12 @@ Here are some ideas to get you started:
   
 <hr>
 <p align="center">
-  <u><b>Fun Fact</b></u><br />
+  <u><b>Fun Fact</b></u><br /><br />
   <i>I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇</i>
   </p>
 <hr>
 <p align="center">
-  <u><b>My Interests</b></u><br />
+  <u><b>My Interests</b></u><br /><br />
  <i>Listening to music</i><br />
  <i>Writing Technical Blogs</i><br />
  <i>Trekking</i><br />
