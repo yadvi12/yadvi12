@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align = "center">✨I love anything that has to do with programming and Web Development. Well anything with technology i should say! . I believe in the power of programming to transform and improve the lives of people around the world. Luckily, I'm obsessed with staying organized and making everyone's life easier. I educate, refine and drive myself to be a better person. As a Computer Science cyber security student in SRM Institute of Science and Technology, Chennai. And if you thought that i am good at creativity, i couldn't help appreciating your beautiful imagination!✨</p>
+<b><p align = "center">✨I love anything that has to do with programming and Web Development. Well anything with technology i should say! . I believe in the power of programming to transform and improve the lives of people around the world. Luckily, I'm obsessed with staying organized and making everyone's life easier. I educate, refine and drive myself to be a better person. As a Computer Science cyber security student in SRM Institute of Science and Technology, Chennai. And if you thought that i am good at creativity, i couldn't help appreciating your beautiful imagination!✨</p></b>
 
 
 
@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 <hr>
 <p align="center">
   <u><b>Tech I know</b></u><br /><br />
- <i>Python</i><br />
- <i>Web Technologies(Frontend+Backend)</i><br />
- <i>C</i><br />
-  <i>Javascript</i><br />
-  <i>Linux</i><br />
-  <i>Docker(Beginner)</i><br />
- <i>RHEL 8</i>
+  <b><i>Python</i></b><br />
+  <b><i>Web Technologies(Frontend+Backend)</i></b><br />
+  <b><i>C</i></b><br />
+  <b><i>Javascript</i></b><br />
+  <b><i>Linux</i></b><br />
+  <b><i>Docker(Beginner)</i></b><br />
+  <b><i>RHEL 8</i></b>
   </p>
 <hr>
 <p align="center">
@@ -45,19 +45,19 @@ Here are some ideas to get you started:
 <hr>
 <p align="center">
   <u><b>Fun Fact</b></u><br /><br />
-  <i>I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇</i>
+  <b><i>I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇</i></b>
   </p>
 <hr>
 <p align="center">
   <u><b>My Interests</b></u><br /><br />
- <i>Listening to music</i><br />
- <i>Writing Technical Blogs</i><br />
- <i>Trekking</i><br />
-  <i>Cooking</i><br />
- <i>Travelling to new places</i>
+  <b><i>Listening to music</i></b><br />
+  <b><i>Writing Technical Blogs</i></b><br />
+  <b><i>Trekking</i></b><br />
+  <b><i>Cooking</i></b><br />
+  <b><i>Travelling to new places</i></b>
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to collaborate.</i>
+  <b><i>Let's connect and chat! Open to collaborate.</i></b>
 
   <p align="center">
     <a href="https://twitter.com/ivday21" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
