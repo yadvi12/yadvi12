@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OS-RHEL 8-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a">
   
   </p>
+  
 ## Stats:
 
 <p align="center">
@@ -48,15 +49,18 @@ Here are some ideas to get you started:
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
   </p>
+  
 ## Fun Fact:
 
 <p align="center">
  
   <b><i>I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇</i></b>
   </p>
+  
+  ## My Interests:
 
 <p align="center">
-  <u><b>My Interests</b></u><br /><br />
+
   <b><i>Listening to music</i></b><br />
   <b><i>Writing Technical Blogs</i></b><br />
   <b><i>Trekking</i></b><br />
