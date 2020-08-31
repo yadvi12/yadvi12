@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 
 
-
+# Tech I know:
 
 <p align="center">
-  <u><b>Tech I know</b></u><br /><br />
+  
    
    <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Web Tech-Frontend and Backend-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a">
