@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-<hr>
+
 <p align="center">
   <u><b>Tech I know</b></u><br /><br />
    
@@ -32,10 +32,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Tech-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/OS-RHEL 8-informational?style=flat&logo=RedHat&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/OS-RHEL 8-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a">
   
   </p>
-<hr>
+
 <p align="center">
   <u><b>Stats</b></u><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=nord" alt="stats">
@@ -46,12 +46,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
   </p>
   
-<hr>
 <p align="center">
   <u><b>Fun Fact</b></u><br /><br />
   <b><i>I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇</i></b>
   </p>
-<hr>
+
 <p align="center">
   <u><b>My Interests</b></u><br /><br />
   <b><i>Listening to music</i></b><br />
@@ -59,7 +58,7 @@ Here are some ideas to get you started:
   <b><i>Trekking</i></b><br />
   <b><i>Cooking</i></b><br />
   <b><i>Travelling to new places</i></b>
-<hr>
+
 <p align="center">
   <b><i>Let's connect and chat! Open to collaborate.</i></b>
 
