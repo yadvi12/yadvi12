@@ -31,9 +31,11 @@ yadvi@yadvi:~# espeak "💙I love LINUX💙"
 - **RHEL 8**
 - **Linux**
 - **Docker(Beginner)**
-## ⚡Fun fact: 
-***I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇***
-
+<hr>
+<p align="center">
+  <u><b>Fun Fact</b></u><br />
+  <i>I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇</i>
+  </p>
 <hr>
 <p align="center">
   <u><b>My Interests</b></u><br />
