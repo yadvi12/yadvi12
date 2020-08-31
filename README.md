@@ -40,14 +40,7 @@ yadvi@yadvi:~# espeak "💙I love LINUX💙"
 - **Cooking**
 - **Trekking**
 
-## 📞Let's Connect:
-**E-mail**: yadvibhalla2002@gmail.com
 
-**Twitter**: https://twitter.com/ivday21
-
-**Linkedin**: www.linkedin.com/in/yadvibhalla1210
-
-**Medium**: https://medium.com/@iivday21
 
 
 <hr>
@@ -55,10 +48,10 @@ yadvi@yadvi:~# espeak "💙I love LINUX💙"
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+    <a href="https://twitter.com/ivday21" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href=" www.linkedin.com/in/yadvibhalla1210" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:yadvibhalla2002@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://medium.com/@iivday21" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
 
   <p align="center">
