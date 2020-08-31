@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-# Tech I know:
+## Tech I know:
 
 <p align="center">
   
@@ -35,19 +35,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/OS-RHEL 8-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a">
   
   </p>
-
+## Stats:
 <p align="center">
-  <u><b>Stats</b></u><br /><br />
+  
   <img src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=nord" alt="stats">
   </p>
-  <hr>
+ ## Programming Languages used in my projects:
   <p align="center">
-  <u><b>Languages used in projects</b></u><br /><br />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
   </p>
-  
+  ## Fun Fact:
 <p align="center">
-  <u><b>Fun Fact</b></u><br /><br />
+ 
   <b><i>I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇</i></b>
   </p>
 
