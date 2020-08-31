@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="center">
   <u><b>Tech I know</b></u><br /><br />
    
-   <img src="https://img.shields.io/badge/OS>-<Linux>-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a">
+   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a">
   <b><i>Web Technologies(Frontend+Backend)</i></b><br />
   <b><i>C</i></b><br />
   <b><i>Javascript</i></b><br />
