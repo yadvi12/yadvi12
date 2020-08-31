@@ -61,14 +61,14 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-  <b><i>Listening to music</i></b><br />
-  <b><i>Writing Technical Blogs</i></b><br />
-  <b><i>Trekking</i></b><br />
-  <b><i>Cooking</i></b><br />
-  <b><i>Travelling to new places</i></b>
-
+  <b>Listening to music</b><br />
+  <b>Writing Technical Blogs</b><br />
+  <b>Trekking</b><br />
+  <b>Cooking</b><br />
+  <b>Travelling to new places</b>
+<hr>
 <p align="center">
-  <b><i>Let's connect and chat! Open to collaborate.</i></b>
+  <b>Let's connect and chat! Open to collaborate.</b>
 
   <p align="center">
     <a href="https://twitter.com/ivday21" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
