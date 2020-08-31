@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <u><b>Stats</b></u><br />
  
   </p>
-   ![](https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=radical)
+   ![Yadvi's stats](https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=radical)
 <hr>
 <p align="center">
   <u><b>Fun Fact</b></u><br />
