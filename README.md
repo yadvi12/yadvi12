@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   </p>
 <hr>
 <p align="center">
-  <u><b>Stats</b></u><br />
+  <u><b>Stats</b></u><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=radical" alt="stats">
   </p>
   
