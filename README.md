@@ -33,6 +33,11 @@ Here are some ideas to get you started:
   </p>
 <hr>
 <p align="center">
+  <u><b>Stats</b></u><br />
+  ![](https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=radical)
+  </p>
+<hr>
+<p align="center">
   <u><b>Fun Fact</b></u><br />
   <i>I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇</i>
   </p>
