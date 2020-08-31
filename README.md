@@ -36,6 +36,10 @@ Here are some ideas to get you started:
   <u><b>Stats</b></u><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=nord" alt="stats">
   </p>
+  <p align="center">
+  <u><b>Languages used in projects</b></u><br /><br />
+  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)](https://github.com/yadvi12/github-readme-stats)" alt="stats">
+  </p>
   
 <hr>
 <p align="center">
