@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <hr>
 <p align="center">
-  <u><b>Tech I know</b></u><br />
+  <h2><u><b>Tech I know</b></u></h2><br />
  <i>Python</i><br />
  <i>Web Technologies(Frontend+Backend)</i><br />
  <i>C</i><br />
