@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Tech-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/OS-RHEL 8-informational?style=flat&logo=Red Hat&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/OS-RHEL 8-informational?style=flat&logo="Red Hat"&logoColor=white&color=2bbc8a">
   
   </p>
 <hr>
