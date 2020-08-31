@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 <b><p align = "center">✨I love anything that has to do with programming and Web Development. Well anything with technology i should say! . I believe in the power of programming to transform and improve the lives of people around the world. Luckily, I'm obsessed with staying organized and making everyone's life easier. I educate, refine and drive myself to be a better person. As a Computer Science cyber security student in SRM Institute of Science and Technology, Chennai. And if you thought that i am good at creativity, i couldn't help appreciating your beautiful imagination!✨</p></b>
 
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 
 
 <hr>
 <p align="center">
   <u><b>Tech I know</b></u><br /><br />
-  <b><i>Python</i></b><br />
+   
+   <img src="https://img.shields.io/badge/OS>-<Linux>-informational?style=flat&logo=<Linux>&logoColor=white&color=2bbc8a">
   <b><i>Web Technologies(Frontend+Backend)</i></b><br />
   <b><i>C</i></b><br />
   <b><i>Javascript</i></b><br />
