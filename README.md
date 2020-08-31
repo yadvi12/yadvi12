@@ -23,14 +23,17 @@ yadvi@yadvi:~# sudo apt-get install espeak
 yadvi@yadvi:~# espeak "💙I love LINUX💙"
 ```
 
-## 💻Technologies I Know:
-- **Python**
-- **Web Technologies(Frontend+Backend)**
-- **C**
-- **Javascript**
-- **RHEL 8**
-- **Linux**
-- **Docker(Beginner)**
+<hr>
+<p align="center">
+  <u><b>Tech I know</b></u><br />
+ <i>Python</i><br />
+ <i>Web Technologies(Frontend+Backend)</i><br />
+ <i>C</i><br />
+  <i>Javascript</i><br />
+  <i>Linux</i><br />
+  <i>Docker(Beginner)</i><br />
+ <i>RHEL 8</i>
+  </p>
 <hr>
 <p align="center">
   <u><b>Fun Fact</b></u><br />
