@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-## Tech I know:
+## Tech I know 🖥:
 
 <p align="center">
   
@@ -36,28 +36,28 @@ Here are some ideas to get you started:
   
   </p>
   
-## Stats:
+## Stats 📊:
 
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=nord" alt="stats">
   </p>
   
-## Programming Languages used in my projects:
+## Programming Languages used in my projects :
 
   <p align="center">
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
   </p>
   
-## Fun Fact:
+## Fun Fact 😀:
 
 <p align="center">
  
   <b>I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇</b>
   </p>
   
-  ## My Interests:
+  ## My Interests 🎼:
 
 <p align="center">
 
