@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align = "center">✨I love anything that has to do with programming and Web Development. Well anything with technology i should say! . I believe in the power of programming to transform and improve the lives of people around the world. Luckily, I'm obsessed with staying organized and making everyone's life easier. I educate, refine and drive myself to be a better person. As a Computer Science cyber security student in SRM Institute of Science and Technology, Chennai. And if you thought that i am good at creativity, i couldn't help appreciating your beautiful imagination!✨</p>
+<p align = "center" font-size="32px">✨I love anything that has to do with programming and Web Development. Well anything with technology i should say! . I believe in the power of programming to transform and improve the lives of people around the world. Luckily, I'm obsessed with staying organized and making everyone's life easier. I educate, refine and drive myself to be a better person. As a Computer Science cyber security student in SRM Institute of Science and Technology, Chennai. And if you thought that i am good at creativity, i couldn't help appreciating your beautiful imagination!✨</p>
 
 
 
