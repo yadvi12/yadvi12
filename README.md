@@ -54,9 +54,5 @@ yadvi@yadvi:~# espeak "💙I love LINUX💙"
     <a href="https://medium.com/@iivday21" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
 
-  <p align="center">
-    <a href="http://hits.dwyl.com/jayehernandez/jayehernandez">
-      <img align="center" src="http://hits.dwyl.com/jayehernandez/jayehernandez.svg">
-    </a>
-  </p>
+ 
 </p>
