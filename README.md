@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   <b>Travelling to new places</b>
 <hr>
 <p align="center">
-  <b>Let's connect and chat! Open to collaborate.</b>
+  <b>Let's connect and chat! Open for collaborations.</b>
 
   <p align="center">
     <a href="https://twitter.com/ivday21" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
