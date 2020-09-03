@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Ahola, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center"> 
-  Visitor count<br>
+  <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/yadvi12/count.svg" />
 </p>
 
