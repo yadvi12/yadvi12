@@ -54,24 +54,13 @@ Here are some ideas to get you started:
 
 ## Technologies used in my projects:
 
-  <p align="right">
+  <p align="left">
  
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
   </p>
   
   </div>
-  <br>
-  <br>
-  <br>
-    <br>
-  <br>
-  <br>
-    <br>
-  <br>
-  <br>
-    <br>
-  <br>
-  
+
   
 ## My latest article on medium:
 
