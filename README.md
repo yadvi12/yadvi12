@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 <b><p>I am Yadvi and I love Linux. What fascinates me so much about linux is the fact that linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and the code. That day my mindset regarding operating systems was completely changed, literally! Front-end web development is something which I do quite often. It is something which is oddly satisfying because I love to see my creative ideas being implemented in beautiful web-pages. As a Computer Science cyber security student in SRM Institute of Science and Technology, Chennai, and if you thought that i am good at creativity, i couldn't help appreciating your beautiful imagination!</p></b>
 
 
-
-[![Yadvi Bhalla's Medium](https://github-readme-medium.vercel.app/?username=iivday21)](https://iivday21.medium.com/)
-
-
 ## Tech Stack:
 
 <p align="center">
@@ -55,12 +51,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
   </p>
   
-## Fun Fact 😀:
+## My latest articles on medium:
 
-<p align="center">
- 
-  <b>I’ll tell you a DNS joke but be advised, it could take up to 24 hours for everyone to get it.😇</b>
-  </p>
+[![Yadvi Bhalla's Medium](https://github-readme-medium.vercel.app/?username=iivday21)](https://iivday21.medium.com/)
+
+**Do check it out!**
   
   ## My Interests 🎼:
 
