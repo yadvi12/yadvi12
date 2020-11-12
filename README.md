@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   
 ## My latest article on medium:
 
-[![Yadvi Bhalla's Medium](https://github-readme-medium.vercel.app/?username=iivday21)](https://iivday21.medium.com/)
+[![Yadvi Bhalla Medium](https://github-readme-medium.vercel.app/?username=iivday21)](https://iivday21.medium.com/)
 
 **I’d like to grow my readership.**
   
