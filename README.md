@@ -38,19 +38,23 @@ Here are some ideas to get you started:
   
   </p>
   
+  <div>
+ 
 ## Stats 📊:
 
-<p align="center">
+<p align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=nord" alt="stats">
   </p>
   
 ## Programming Languages used in my projects :
 
-  <p align="center">
+  <p align="right">
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
   </p>
+  
+  </div>
   
 ## My latest articles on medium:
 
