@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   
 
  
-## Stats 📊:
+## Stats:
   
   <div>
 <p align="left">
@@ -50,6 +50,7 @@ Here are some ideas to get you started:
   </p>
   
 
+## Technologies used in my projects:
 
   <p align="right">
  
