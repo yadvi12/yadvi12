@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Aloha, folks! 
+# Aloha, folks! <div class="tenor-gif-embed" data-postid="10897308" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308">Waving Wave GIF</a> from <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <div>
 <div align = "center">
