@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Aloha, folks! ![img](https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif?itemid=10897308)
+<h1 align="left">Aloha, folks!</h1> 
+<div align = "center">
+ <img align ="right" width="50%" height="50%" src="https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif?itemid=10897308" alt="">
+</div>
 
 <div>
 <div align = "center">
