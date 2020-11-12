@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  
 ## Stats:
   
-  <div>
+  
 <p align="left">
   
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=nord" alt="stats">
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
   </p>
   
-  </div>
+
 
   
 ## My latest article on medium:
