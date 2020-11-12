@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
 <h1 align="left">Aloha, folks!</h1> 
 <div align = "center">
  <img align ="right" width="50%" height="50%" src="https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif?itemid=10897308" alt="">
@@ -23,6 +24,7 @@ Here are some ideas to get you started:
 <div align = "center">
  <img align ="right" width="50%" height="50%" src="code.gif" alt="">
 </div>
+ </div>
 
 <b><p align = "left">I am Yadvi and I love Linux. What fascinates me so much about linux is the fact that linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and the code. That day my mindset regarding operating systems was completely changed, literally! Front-end web development is something which I do quite often. It is something which is oddly satisfying because I love to see my creative ideas being implemented in beautiful web-pages. As a Computer Science cyber security student in SRM Institute of Science and Technology, Chennai, and if you thought that i am good at creativity, i couldn't help appreciating your beautiful imagination!</p></b>
 </div>
