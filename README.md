@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 [![Yadvi Bhalla's Medium](https://github-readme-medium.vercel.app/?username=iivday21)](https://iivday21.medium.com/)
 
-**Do check it out!**
+**I’d like to grow my readership.**
   
   ## My Interests 🎼:
 
