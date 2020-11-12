@@ -39,16 +39,17 @@ Here are some ideas to get you started:
   
   </p>
   
-  <div>
+
  
 ## Stats 📊:
-
+  
+  <div>
 <p align="left">
   
   <img src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=nord" alt="stats">
   </p>
   
-## Programming Languages :
+
 
   <p align="right">
  
