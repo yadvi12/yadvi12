@@ -28,23 +28,14 @@ Here are some ideas to get you started:
 
 ## Tech Stack:
 
+<p align="center">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redhat.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+ </p>
 
-<p align="center">
-  
-   
-   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a">
-   <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Cloud&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Web Tech-MERN STACK-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Tech-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/OS-RHEL 8-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a">
-  
-  </p>
+
   
 
  
