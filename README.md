@@ -46,17 +46,17 @@ Here are some ideas to get you started:
 ## Stats:
   
   
-<p align="center">
+<p>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=nord" alt="stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=nord" alt="stats">
   </p>
   
 
 ## Technologies used in my projects:
 
-  <p align="center">
+  <p>
  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
   </p>
   
 
