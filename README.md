@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 # Aloha, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](code.gif)
+<div align = "center">
+ <img width="50%" height="50%" src="code.gif" alt="">
+</div>
 
 <b><p>✨I love anything that has to do with programming and Web Development. Well anything with technology i should say! . I believe in the power of programming to transform and improve the lives of people around the world. Luckily, I'm obsessed with staying organized and making everyone's life easier. I educate, refine and drive myself to be a better person. As a Computer Science cyber security undergrad in SRM Institute of Science and Technology, Chennai and if you thought that i am good at creativity, i couldn't help appreciating your beautiful imagination!✨</p></b>
 
