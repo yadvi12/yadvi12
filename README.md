@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   
    
    <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a">
+   <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Web Tech-MERN STACK-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a">
