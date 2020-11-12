@@ -46,15 +46,15 @@ Here are some ideas to get you started:
   <div>
 <p align="left">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=nord" alt="stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=nord" alt="stats">
   </p>
   
 
 ## Technologies used in my projects:
 
-  <p align="left">
+  <p align="right">
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
   </p>
   
   </div>
