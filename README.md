@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ## Technologies used in my projects:
 
-  <p align="right">
+  <p align="left">
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
   </p>
