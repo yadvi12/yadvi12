@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Aloha, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Aloha, folks! 
 
 <div align = "center">
- <img width="50%" height="50%" src="code.gif" alt="">
+ <img width="50%" height="50%" src="Internet on the go.gif" alt="">
 </div>
 
 <b><p>I am Yadvi and I love Linux. What fascinates me so much about linux is the fact that linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and the code. That day my mindset regarding operating systems was completely changed, literally! Front-end web development is something which I do quite often. It is something which is oddly satisfying because I love to see my creative ideas being implemented in beautiful web-pages. As a Computer Science cyber security student in SRM Institute of Science and Technology, Chennai, and if you thought that i am good at creativity, i couldn't help appreciating your beautiful imagination!</p></b>
