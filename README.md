@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 **I’d like to grow my readership.**
   
-  ## My Interests 🎼:
+  ## My Interests:
 
 <p align="center">
 
