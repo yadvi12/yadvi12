@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
  
 
-<b><p align = "left">I am Yadvi and I love Linux. What fascinates me so much about linux is the fact that linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and the code. That day my mindset regarding operating systems was completely changed, literally! Front-end web development is something which I do quite often. It is something which is oddly satisfying because I love to see my creative ideas being implemented in beautiful web-pages. As a Computer Science cyber security student in SRM Institute of Science and Technology, Chennai, and if you thought that i am good at creativity, i couldn't help appreciating your beautiful imagination!</p></b>
+<b><p align = "left">I am Yadvi and I love Linux. What fascinates me so much about linux is the fact that linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and the code. That day my mindset regarding operating systems was completely changed, literally! Front-end web development is something which I do quite often. It is something which is oddly satisfying because I love to see my creative ideas being implemented in beautiful web-pages. As a Computer Science cyber security student in SRM Institute of Science and Technology, Chennai, and if you thought that I am good at creativity, I couldn't help appreciating your beautiful imagination!</p></b>
 </div>
 <br>
 
