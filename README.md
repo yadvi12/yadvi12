@@ -58,8 +58,13 @@ Here are some ideas to get you started:
   </p>
   
   </div>
+  <br>
+  <br>
+  <br>
   
+## My latest articles on medium:
 
+[![Yadvi Bhalla's Medium](https://github-readme-medium.vercel.app/?username=iivday21)](https://iivday21.medium.com/)
 
 **Do check it out!**
   
