@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 
   
-## My latest article on medium:
+## Check out my articles:
 
 [![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=iivday21&type=horizontal)](https://iivday21.medium.com/)
 
