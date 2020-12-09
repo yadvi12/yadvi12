@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   
 ## Check out my articles:
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=iivday21&type=horizontal&limit=6)](https://iivday21.medium.com/)
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=iivday21&type=horizontal&limit=6)](https://medium.com/@iivday21)
 
 **I’d like to grow my readership.**
   
