@@ -75,7 +75,7 @@ Here are some ideas to get you started:
   
 ## My latest article on medium:
 
-[![Yadvi Bhalla Medium](https://github-readme-medium.vercel.app/?username=iivday21)](https://iivday21.medium.com/)
+[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=iivday21&type=horizontal)](https://iivday21.medium.com/)
 
 **I’d like to grow my readership.**
   
