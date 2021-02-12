@@ -64,14 +64,14 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=nord" alt="stats">
   </p>
   
-
+<!--
 ## Technologies used in my projects:
 
   <p>
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&layout=compact)">
   </p> 
-  
+  -->
   
 
 **I’d like to grow my readership.**
