@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <b><p align = "left">
 ⮞ I am Yadvi and I love Linux. What fascinates me so much about Linux is the fact that Linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and code.
  <br>
-⮞ Highly focused and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Data Science, and many more to drive success in the technical world.
+⮞ Highly focused and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Data Science, Data Engineering and many more to drive success in the technical world.
  </p></b>
 </div>
 <br>
