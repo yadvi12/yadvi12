@@ -29,6 +29,8 @@ Here are some ideas to get you started:
  </p></b>
 </div>
 <br>
+<br>
+<br>
 
 ## Technologies I know:
 
