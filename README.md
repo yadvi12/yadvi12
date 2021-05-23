@@ -36,11 +36,14 @@ Here are some ideas to get you started:
 
 <p align="center">
  <img src="https://img.icons8.com/color/50/000000/kubernetes.png" width="40"  height="40"/>
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />
+<!--  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" /> -->
   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+ <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40"  height="40"/>
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" /> -->
+ <img src="https://img.icons8.com/color/48/000000/jenkins.png" width="40"  height="40"/>
+<!--  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" /> -->
+ <img src="https://img.icons8.com/dusk/64/000000/docker.png" width="40"  height="40"/>
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" /> -->
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redhat.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
