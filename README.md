@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <p align="center">
  <img src="https://img.icons8.com/color/50/000000/kubernetes.png" width="40"  height="40"/>
 <!--  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" /> -->
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg" />
+  <img width="40"  height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg" />
  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40"  height="40"/>
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" /> -->
  <img src="https://img.icons8.com/color/48/000000/jenkins.png" width="40"  height="40"/>
@@ -54,19 +54,25 @@ Here are some ideas to get you started:
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /> -->
  <img src="https://img.icons8.com/dusk/64/000000/css3.png" width="40"  height="40"  />
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> -->
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
+ <img width="40"  height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
  <img src="https://img.icons8.com/dusk/64/000000/github.png" width="40"  height="40" />
 <!--  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> -->
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/virtualbox.svg" />
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vmware.svg" />
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" />
+ <img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="40"  height="40"/>
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> -->
+<!--  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> -->
+ <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="40"  height="40"/>
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" /> -->
+ <img src="https://img.icons8.com/color/50/000000/mongodb.png" width="40"  height="40"/>
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" /> -->
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> -->
+ <img height="40" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/virtualbox.svg" />
+<!--  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> -->
+ <img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" /> -->
+ <img height="40" width="40" src="https://img.icons8.com/fluent/48/000000/vmware-workstation-player.png"/>
+<!--  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vmware.svg" /> -->
+ <img height="40" width="40" src="https://img.icons8.com/color/48/000000/ansible.png"/>
+<!--   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" /> -->
  </p>
 
 
