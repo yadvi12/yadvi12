@@ -44,13 +44,19 @@ Here are some ideas to get you started:
 <!--  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg" /> -->
  <img src="https://img.icons8.com/dusk/64/000000/docker.png" width="40"  height="40"/>
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" /> -->
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redhat.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+ <img src="https://img.icons8.com/windows/32/fa314a/redhat.png" width="40"  height="40"/>
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redhat.svg" /> -->
+ <img src="https://img.icons8.com/dusk/64/000000/python.png"  width="40"  height="40"/>
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> -->
+ <img src="https://img.icons8.com/nolan/64/html-5.png" width="40"  height="40" />
+<!--  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /> -->
+ <img src="https://img.icons8.com/dusk/50/000000/linux.png"  width="40"  height="40" />
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /> -->
+ <img src="https://img.icons8.com/dusk/64/000000/css3.png" width="40"  height="40"  />
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> -->
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+ <img src="https://img.icons8.com/dusk/64/000000/github.png" width="40"  height="40" />
+<!--  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> -->
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
