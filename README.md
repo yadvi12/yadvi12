@@ -113,7 +113,8 @@ Here are some ideas to get you started:
   <b>Let's connect and chat! Open for collaborations.</b>
 
   <p align="center">
-    <a href="https://twitter.com/ivday21" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="https://twitter.com/ivday21" alt="Twitter"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!--    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"> -->
     <a href="https://www.linkedin.com/in/yadvibhalla1210" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:yadvibhalla2002@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     
