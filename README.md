@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Aloha folks! <img src="https://img.icons8.com/plasticine/100/000000/flower-doodle.png"/>
+## Aloha folks! <img src="https://img.icons8.com/plasticine/100/000000/flower-doodle.png" width="40"  height="40"/>
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
 <div>
