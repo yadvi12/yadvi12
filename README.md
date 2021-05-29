@@ -113,12 +113,12 @@ Here are some ideas to get you started:
   <b>Let's connect and chat! Open for collaborations.</b>
 
   <p align="center">
-    <a href="https://twitter.com/ivday21" alt="Twitter"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/></a>
+    <a href="https://twitter.com/ivday21" alt="Twitter"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" width="40"  height="40"/></a>
 <!--    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"> -->
-    <a href="https://www.linkedin.com/in/yadvibhalla1210" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/></a>
+    <a href="https://www.linkedin.com/in/yadvibhalla1210" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
 <!--    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"> -->
-    <a href="https://www.instagram.com/_yadvi_12/" alt="Instagram"><img src="https://img.icons8.com/doodle/50/000000/instagram-new.png"/></a>
-    <a href="mailto:yadvibhalla2002@gmail.com" alt="Contact me"><img src="https://img.icons8.com/doodle/48/000000/apple-mail.png"/></a>
+    <a href="https://www.instagram.com/_yadvi_12/" alt="Instagram"><img src="https://img.icons8.com/doodle/50/000000/instagram-new.png" width="40"  height="40"/></a>
+    <a href="mailto:yadvibhalla2002@gmail.com" alt="Contact me"><img src="https://img.icons8.com/doodle/48/000000/apple-mail.png" width="40"  height="40"/></a>
 <!--    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"> -->
     
   </p>
