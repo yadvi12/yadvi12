@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 <b><p align = "left">
 ⮞ I am Yadvi and I love Linux. What fascinates me so much about Linux is the fact that Linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and code.
  <br>
-⮞ Highly focused and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Data Science, Data Engineering and many more to drive success in the technical world.
+⮞  I am highly focused and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Data Science, and many more to drive success in the technical world.
+⮞ Although I've worked on the integration of various different technologies, my field of expertise lies in Linux, DevOps and, Cloud Computing.
+⮞ I've also been the mentor at GirlScript Summer of Code and Hack the Mountains Hackathon. 
+⮞ And because I love opensource, I've been a contributor at Ansible Galaxy by building a Kubernetes cluster with the help of Ansible.
  </p></b>
 </div>
 <br>
