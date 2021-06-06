@@ -85,7 +85,7 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
 <!--   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" /> -->
  </p>
  <br>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"><img src="https://img.icons8.com/flat-round/64/000000/rebalance-portfolio.png"/> Stats </h2>
 <br>
 <p align=center>
   <div align=center>
