@@ -114,6 +114,7 @@ Here are some ideas to get you started:
   <b>Cooking</b><br />
   <b>Travelling to new places</b>
 <hr> -->
+
 <p align="center">
   <b>Let's connect and chat! Open for collaborations.</b>
 
