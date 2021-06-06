@@ -83,6 +83,7 @@ Welcome to my profile! I'm a student at SRM University, Kattankulathur, Chennai,
  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/ansible.png"/>
 <!--   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" /> -->
  </p>
+ <br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -105,14 +106,14 @@ Welcome to my profile! I'm a student at SRM University, Kattankulathur, Chennai,
 </p>
   
 
- 
+<!--  
 ## Stats
   
   
 <p>
   
   <img src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=nord" alt="stats">
-  </p>
+  </p> -->
   
 <!--
 ## Technologies used in my projects:
