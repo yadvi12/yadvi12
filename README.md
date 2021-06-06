@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <!-- 
 ## Aloha folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Aloha folks! </h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Aloha folks! </h1>
 
 Welcome to my profile! I'm a student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and full-time adventure seeker. Thanks for visiting and I'd love to connect!
 
@@ -41,7 +41,8 @@ Welcome to my profile! I'm a student at SRM University, Kattankulathur, Chennai,
 </div>
 
 
-## Technologies I know
+
+<h2 align="center">Technologies I know</h2>
 
 <p align="center">
  <img src="https://img.icons8.com/color/50/000000/kubernetes.png" width="40"  height="40"/>
