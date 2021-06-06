@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div>
 <div align = "center">
- <img align ="right" width="50%" height="50%" src="code.gif" alt="">
+ <img width="50%" height="50%" src="code.gif" alt="">
 </div>
  
  <br>
