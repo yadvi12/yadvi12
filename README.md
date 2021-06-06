@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <!-- 
 ## Aloha folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Aloha folks! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Aloha folks! </h1>
 
 Welcome to my profile! I'm a student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and full-time adventure seeker. Thanks for visiting and I'd love to connect!
 
@@ -26,7 +26,7 @@ Welcome to my profile! I'm a student at SRM University, Kattankulathur, Chennai,
  
  <br>
 
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> More About Me 
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> More About Me 
 <p>
 ⮞ I am Yadvi and I love Linux. What fascinates me so much about Linux is the fact that Linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and code.
  <br>
