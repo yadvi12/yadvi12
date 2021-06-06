@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 
 
   
-  ## My Interests:
+<!--   ## My Interests:
 
 <p align="center">
 
@@ -113,7 +113,7 @@ Here are some ideas to get you started:
   <b>Trekking</b><br />
   <b>Cooking</b><br />
   <b>Travelling to new places</b>
-<hr>
+<hr> -->
 <p align="center">
   <b>Let's connect and chat! Open for collaborations.</b>
 
