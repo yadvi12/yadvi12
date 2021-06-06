@@ -41,7 +41,7 @@ Welcome to my profile! I'm a student at SRM University, Kattankulathur, Chennai,
 </div>
 
 
-## Technologies I know:
+## Technologies I know
 
 <p align="center">
  <img src="https://img.icons8.com/color/50/000000/kubernetes.png" width="40"  height="40"/>
@@ -88,7 +88,7 @@ Welcome to my profile! I'm a student at SRM University, Kattankulathur, Chennai,
   
 
  
-## Stats:
+## Stats
   
   
 <p>
