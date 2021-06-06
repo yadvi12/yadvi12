@@ -40,8 +40,6 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
  </p>
 </div>
 
-
-
 <h2 align="center">Technologies I know</h2>
 
 <p align="center">
@@ -84,7 +82,6 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
  <img height="40" width="40" src="https://img.icons8.com/color/48/000000/ansible.png"/>
 <!--   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" /> -->
  </p>
- <br>
 <h2 align="center"><img src="https://img.icons8.com/flat-round/40/000000/rebalance-portfolio.png"/> Stats </h2>
 <br>
 <p align=center>
