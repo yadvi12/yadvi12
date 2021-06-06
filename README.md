@@ -23,7 +23,7 @@ Welcome to my profile! I'm a student at SRM University, Kattankulathur, Chennai,
 <div align = "center">
  <img width="50%" height="50%" src="code.gif" alt="">
 </div>
-  <br>
+  
 <h2 align="center"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> More About Me </h2>
 <p>
 ⮞ I am Yadvi and I love Linux. What fascinates me so much about Linux is the fact that Linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and code.
