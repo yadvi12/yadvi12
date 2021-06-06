@@ -85,7 +85,6 @@ Welcome to my profile! I'm a student at SRM University, Kattankulathur, Chennai,
 <!--   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" /> -->
  </p>
  <br>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
