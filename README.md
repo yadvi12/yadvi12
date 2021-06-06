@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ## Aloha folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Aloha folks! </h1>
 
+Welcome to my profile! I'm a student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and full-time adventure seeker. Thanks for visiting and I'd love to connect!
+
 <div>
 <div align = "center">
  <img width="50%" height="50%" src="code.gif" alt="">
