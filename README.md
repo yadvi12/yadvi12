@@ -30,7 +30,7 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
  <br>
 ⮞  I am highly focused and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Data Science, and many more to drive success in the technical world.
  <br>
-⮞ Although I've worked on the integration of various different technologies, my field of expertise lies in Linux, DevOps and, Cloud Computing.
+⮞ Although I've worked on the integration of various technologies, my field of expertise lies in Linux, DevOps and, Cloud Computing.
  <br>
 ⮞ I've also been the mentor at GirlScript Summer of Code and Hack the Mountains Hackathon. 
  <br>
