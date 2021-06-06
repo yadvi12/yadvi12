@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 ⮞ And because I love opensource, I've been a contributor at Ansible Galaxy by building a Kubernetes cluster with the help of Ansible.
  </p></b>
 </div>
-<br>
-<br>
-<br>
+
 
 ## Technologies I know:
 
