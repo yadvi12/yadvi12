@@ -36,7 +36,7 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
  <br>
 ⮞ I've worked as an student ambassador at LinuxWorld Informatics Pvt Ltd and Hack the Mountains because helping others is the best way to help ourselves.
  <br>
-⮞ And because I love opensource, I've been a contributor at Ansible Galaxy by building a [Kubernetes cluster with the help of Ansible](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster).
+⮞ And because I love opensource, I've been a contributor at Ansible Galaxy by building a [Kubernetes cluster using Ansible](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster).
 
 
 <h2 align="center">Technologies I know</h2>
