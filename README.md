@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 Welcome to my profile! I'm a Computer Science student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yadvibhalla1210/)!
 
-<div>
+
 <div align = "center">
  <img width="50%" height="50%" src="code.gif" alt="">
 </div>
   
 <h2 align="center"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> More About Me </h2>
-<p>
+
 ⮞ I am Yadvi and I love Linux. What fascinates me so much about Linux is the fact that Linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and code.
  <br>
 ⮞  I am highly focused and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Data Science, and many more to drive success in the technical world.
@@ -37,8 +37,7 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
 ⮞ I've worked as an student ambassador at LinuxWorld Informatics Pvt Ltd and Hack the Mountains because helping others is the best way to help ourselves.
  <br>
 ⮞ And because I love opensource, I've been a contributor at Ansible Galaxy by building a [Kubernetes cluster with the help of Ansible](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster).
- </p>
-</div>
+
 
 <h2 align="center">Technologies I know</h2>
 
