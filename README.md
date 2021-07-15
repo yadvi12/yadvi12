@@ -135,7 +135,8 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
 <hr> -->
 <hr>
 <p align="center">
-  <b>Let's connect and chat! Open for collaborations.</b>
+<!--   <b>Let's connect and chat! Open for collaborations.</b> -->
+ <b>Find me elsewhere 🌎</b>
 
   <p align="center">
     <a href="https://twitter.com/ivday21" alt="Twitter"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" width="40"  height="40"/></a>
