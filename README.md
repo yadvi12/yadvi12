@@ -24,7 +24,7 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
  <img width="50%" height="50%" src="code.gif" alt="">
 </div>
   
-<h2 align="center"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> More About Me </h2>
+<h2 align="center"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> A little more about me... </h2>
 
 ⮞ I am Yadvi and I love Linux. What fascinates me so much about Linux is the fact that Linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and code.
  <br>
