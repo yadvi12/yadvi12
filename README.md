@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## So glad to see you here...AGAIN :)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> So glad to see you here...AGAIN :)! </h2>
 
-Welcome to my profile!🦄 I'm a Computer Science student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yadvibhalla1210/)!
+Welcome to my profile! I'm a Computer Science student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yadvibhalla1210/)!
 
 
 <div align = "center">
