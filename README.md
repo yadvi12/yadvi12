@@ -26,8 +26,11 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
   
 <h2 align="center"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> A little more about me... </h2>
 ⮞ I am the 19th person in India to have completed the RedHat Global Certification EX180.
+<br>
 ⮞ I have mentored more than five organizations and won the best mentor award at Hack The Mountains Hackathon.
+<br>
 ⮞ As well as coding, I am an avid Melophile.
+<br>
 ⮞ As a side hustle, I am a resume writer and a LinkedIn trainer. Having trouble revamping your LinkedIn profile or unsure what to include in your resume? I can help.
 ⮞ 
 
