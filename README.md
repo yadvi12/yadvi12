@@ -27,8 +27,6 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
 <h2 align="center"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> A little more about me... </h2>
 ⮞ I am the 19th person in India to have completed the RedHat Global Certification EX180.
 <br>
-⮞ Since I love opensource, I have built a [Kubernetes cluster using Ansible](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster) and have been a contributor to Ansible Galaxy.
-<br>
 ⮞ I have mentored more than five organizations and won the best mentor award at Hack The Mountains Hackathon.
 <br>
 ⮞ Aside from coding, I am also a Melophile.
