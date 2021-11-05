@@ -34,7 +34,7 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
 <br>
 ⮞ Aside from coding, I am also a Melophile.
 <br>
-⮞ As a side hustle, I am a resume writer and a LinkedIn trainer. Having trouble revamping your LinkedIn profile or unsure what to include in your resume? I can help.
+⮞ As a side hustle, I am a Resume Writer and a LinkedIn Trainer. Having trouble revamping your LinkedIn profile or unsure what to include in your Resume? I can help.
 <br>
 
 
