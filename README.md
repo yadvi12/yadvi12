@@ -25,8 +25,13 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
 </div>
   
 <h2 align="center"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> A little more about me... </h2>
+⮞ I am the 19th person in India to have completed the RedHat Global Certification EX180.
+⮞ I have mentored more than five organizations and won the best mentor award at Hack The Mountains Hackathon.
+⮞ As well as coding, I am an avid Melophile.
+⮞ As a side hustle, I am a resume writer and a LinkedIn trainer. Having trouble revamping your LinkedIn profile or unsure what to include in your resume? I can help.
+⮞ 
 
-⮞ I am Yadvi and I love Linux. What fascinates me so much about Linux is the fact that Linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and code.
+<!-- ⮞ I am Yadvi and I love Linux. What fascinates me so much about Linux is the fact that Linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and code.
  <br>
 ⮞  I am highly focused and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Data Science, and many more to drive success in the technical world.
  <br>
@@ -36,7 +41,7 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
  <br>
 ⮞ I've worked as an student ambassador at LinuxWorld Informatics Pvt Ltd and Hack the Mountains because helping others is the best way to help ourselves.
  <br>
-⮞ And because I love opensource, I've been a contributor at Ansible Galaxy by building a [Kubernetes cluster using Ansible](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster).
+⮞ And because I love opensource, I've been a contributor at Ansible Galaxy by building a [Kubernetes cluster using Ansible](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster). -->
 
 
 <h2 align="center">Technologies I know</h2>
