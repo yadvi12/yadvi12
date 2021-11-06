@@ -34,6 +34,8 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
 <br>
 ⮞ Aside from coding, I am also a Melophile.
 <br>
+⮞ Writing blog posts about things that trip up people I mentor or something I am learning is one of my favorite pastimes. So don't forget to check out my digital garden🌷 at [Medium](https://medium.com/@iivday21) or [LinkedIn](https://www.linkedin.com/in/yadvibhalla1210/detail/recent-activity/posts/).
+<br>
 ⮞ As a side hustle, I am a Resume Writer and a LinkedIn Trainer. Having trouble revamping your LinkedIn profile or unsure what to include in your Resume? I can help.
 <br>
 
