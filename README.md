@@ -107,14 +107,13 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
 <p>
   <div>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=yadvi12&theme=react&border=61dafb&hide_border=true" alt="yadvi bhalla" />
+      <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=yadvi12&theme=react&border=61dafb&hide_border=true" alt="yadvi bhalla" />
     </a>
     <a href="https://github.com/yadvi12/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=yadvi12&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-    
-</p>
+    </p>
   <br><br><br><br><br><br><br><br><br>
 <!--   <div align=center>
     <a href="https://github.com/yadvi12/github-readme-stats">
