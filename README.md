@@ -78,7 +78,7 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" /> -->
  <img src="https://img.icons8.com/dusk/64/000000/css3.png" width="30"  height="30"  />
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> -->
- <img width="40"  height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
+ <img width="30"  height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
  <img src="https://img.icons8.com/dusk/64/000000/github.png" width="30"  height="30" />
 <!--  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> -->
  <img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="30"  height="30"/>
