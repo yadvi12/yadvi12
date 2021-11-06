@@ -154,7 +154,7 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
   <b>Cooking</b><br />
   <b>Travelling to new places</b>
 <hr> -->
-<hr>
+
 <p align="center">
 <!--   <b>Let's connect and chat! Open for collaborations.</b> -->
  <h2 align="center">Find me elsewhere 🌎</h2>
