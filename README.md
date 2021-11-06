@@ -59,7 +59,7 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
 <h2 align="center">Technologies I know</h2>
 
 <p align="center">
- <img src="https://img.icons8.com/color/50/000000/kubernetes.png" width="20"  height="20"/>
+ <img src="https://img.icons8.com/color/50/000000/kubernetes.png" width="25"  height="25"/>
 <!--  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" /> -->
   <img width="40"  height="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/terraform.svg" />
  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40"  height="40"/>
