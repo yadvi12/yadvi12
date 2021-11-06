@@ -103,7 +103,7 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
 <!--   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" /> -->
  </p>
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
 <p>
   <div>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
