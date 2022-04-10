@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 
 ![newh](https://user-images.githubusercontent.com/60046892/162619027-76a4af50-c6e6-4091-bb95-cc0de9136558.PNG)
 
-Welcome to my profile! I'm a Computer Science student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and full-time adventure seeker. I mainly code in CPP, in 2020 I fell in love with Docker, Kubernetes and so many DevOps tools. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yadvibhalla1210/)!
+Welcome to my profile! I'm a Computer Science student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and full-time adventure seeker. 
+
+I mainly code in CPP, in 2020 I fell in love with Docker, Kubernetes and so many DevOps tools. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yadvibhalla1210/)!
 
 
 <!-- <div align = "center">
