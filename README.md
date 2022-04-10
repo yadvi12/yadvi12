@@ -38,18 +38,22 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
   
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Achievements </h2>
 
-⮞ I am the 19th person in India to have completed the RedHat Global Certification EX180.
+⮞ 19th person in India to have completed the RedHat Global Certification EX180.
+<br>
+⮞ Cleared the Azure AZ-900 Microsoft Global Certification.
+<br>
+⮞ Research Intern at Polytechnique Montréal, Québec, Canada as part of the Mitacs Globalink Research Internship 2022.
 <br>
 ⮞ Since I love opensource, I've been a contributor at Ansible Galaxy. Check out my collection and do leave a [feedback score](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster)(I'd love your input🙃💜).
 <br>
-⮞ I have mentored more than five organizations and won the best mentor award at Hack The Mountains Hackathon.
+⮞ Mentored more than five organizations and won the best mentor award at Hack The Mountains Hackathon.
 <br>
-⮞ Aside from coding, I am also a Melophile.
+<!-- ⮞ Aside from coding, I am also a Melophile.
 <br>
 ⮞ Writing blog posts about things that trip up people I mentor or something I am learning is one of my favorite pastimes. So don't forget to check out my digital garden🌷 at [Medium](https://medium.com/@iivday21) or [LinkedIn](https://www.linkedin.com/in/yadvibhalla1210/detail/recent-activity/posts/).
 <br>
 ⮞ As a side hustle, I am a Resume Writer and a LinkedIn Trainer. Having trouble revamping your LinkedIn profile or unsure what to include in your Resume? I can help.
-<br>
+<br> -->
 
 
 
