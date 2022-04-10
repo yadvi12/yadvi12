@@ -20,11 +20,12 @@ Here are some ideas to get you started:
  -->
  
 <!-- ![jd](https://user-images.githubusercontent.com/60046892/162618941-4e8a25f0-3d1d-49db-b577-7d0391a2a1ac.PNG) -->
+<!-- 
 
 ![jjjso](https://user-images.githubusercontent.com/60046892/162618347-c36f135b-075c-46bc-9099-c2a11abdb03f.PNG)
+ -->
 
-
-
+![newh](https://user-images.githubusercontent.com/60046892/162619027-76a4af50-c6e6-4091-bb95-cc0de9136558.PNG)
 
 Welcome to my profile! I'm a Computer Science student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yadvibhalla1210/)!
 
