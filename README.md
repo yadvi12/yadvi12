@@ -49,7 +49,8 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
 ⮞ Since I love opensource, I've been a contributor at Ansible Galaxy. Check out my collection and do leave a [feedback score](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster)(I'd love your input🙃💜).
 <br>
 
-<h2 align="center"> What I do in my leisure time </h2>
+<h2 align="center"> What I do in my leisure time 
+ ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966](https://user-images.githubusercontent.com/60046892/162620544-420e7cb8-8462-4228-99b8-12ae3de8343b.gif)</h2>
 
 ⮞ Aside from coding, I am also a Melophile. Spotify is my constant companion.
 <br>
