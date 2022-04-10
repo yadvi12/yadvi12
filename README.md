@@ -46,7 +46,7 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
 ⮞ Mentored more than five organizations and won the best mentor award at Hack The Mountains Hackathon.
 <br>
 ⮞ Since I love opensource, I've been a contributor at Ansible Galaxy. Check out my collection and do leave a [feedback score](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster)(I'd love your input🙃💜).
-<br>
+
 <h2 align="center"><img src= "https://user-images.githubusercontent.com/60046892/162620544-420e7cb8-8462-4228-99b8-12ae3de8343b.gif" width="60"/> What I do in my leisure time </h2>
 
 ⮞ Aside from coding, I am also a Melophile. Spotify is my constant companion.
