@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 Welcome to my profile! I'm a Computer Science student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yadvibhalla1210/)!
 
 
-<div align = "center">
+<!-- <div align = "center">
  <img width="50%" height="50%" src="code.gif" alt="">
-</div>
+</div> -->
   
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> A little more about me... </h2>
 
