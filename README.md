@@ -114,7 +114,7 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
  <img height="30" width="30" src="https://img.icons8.com/color/48/000000/ansible.png"/>
 <!--   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" /> -->
  </p>
-<h2 align="center">Stats </h2>
+<!-- <h2 align="center">Stats </h2>
 
 <p>
   <div>
@@ -126,7 +126,7 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
     </a>
   </div>
     </p>
-  <br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br> -->
 <!--   <div align=center>
     <a href="https://github.com/yadvi12/github-readme-stats">
       <img width=380 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadvi12&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
