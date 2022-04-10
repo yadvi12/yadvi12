@@ -47,27 +47,6 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
 <br>
 ⮞ Since I love opensource, I've been a contributor at Ansible Galaxy. Check out my collection and do leave a [feedback score](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster)(I'd love your input🙃💜).
 
-<h2 align="center"><img src= "https://user-images.githubusercontent.com/60046892/162620544-420e7cb8-8462-4228-99b8-12ae3de8343b.gif" width="60"/> What I do in my leisure time </h2>
-
-⮞ Aside from coding, I am also a Melophile. Spotify is my constant companion.
-<br>
-⮞ Writing blog posts about things that trip up people I mentor or something I am learning is one of my favorite pastimes. So don't forget to check out my digital garden🌷 on [Medium](https://medium.com/@iivday21) or [LinkedIn](https://www.linkedin.com/in/yadvibhalla1210/detail/recent-activity/posts/).
-<br>
-⮞ As a side hustle, I am a Resume Writer and a LinkedIn Trainer. Have trouble revamping your LinkedIn profile or unsure what to include in your Resume? I can help.
-<br> 
-
-<!-- ⮞ I am Yadvi and I love Linux. What fascinates me so much about Linux is the fact that Linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and code.
- <br>
-⮞  I am highly focused and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Data Science, and many more to drive success in the technical world.
- <br>
-⮞ Although I've worked on the integration of various technologies, my field of expertise lies in Linux, DevOps and, Cloud Computing.
- <br>
-⮞ I've also been the mentor at GirlScript Summer of Code and Hack the Mountains Hackathon. 
- <br>
-⮞ I've worked as an student ambassador at LinuxWorld Informatics Pvt Ltd and Hack the Mountains because helping others is the best way to help ourselves.
- <br>
-⮞ And because I love opensource, I've been a contributor at Ansible Galaxy by building a [Kubernetes cluster using Ansible](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster). -->
-
 <h2 align="center">Technologies I know</h2>
 
 <p align="center">
@@ -114,6 +93,28 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
  <img height="30" width="30" src="https://img.icons8.com/color/48/000000/ansible.png"/>
 <!--   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" /> -->
  </p>
+
+<h2 align="center"><img src= "https://user-images.githubusercontent.com/60046892/162620544-420e7cb8-8462-4228-99b8-12ae3de8343b.gif" width="60"/> What I do in my leisure time </h2>
+
+⮞ Aside from coding, I am also a Melophile. Spotify is my constant companion.
+<br>
+⮞ Writing blog posts about things that trip up people I mentor or something I am learning is one of my favorite pastimes. So don't forget to check out my digital garden🌷 on [Medium](https://medium.com/@iivday21) or [LinkedIn](https://www.linkedin.com/in/yadvibhalla1210/detail/recent-activity/posts/).
+<br>
+⮞ As a side hustle, I am a Resume Writer and a LinkedIn Trainer. Have trouble revamping your LinkedIn profile or unsure what to include in your Resume? I can help.
+<br> 
+
+<!-- ⮞ I am Yadvi and I love Linux. What fascinates me so much about Linux is the fact that Linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and code.
+ <br>
+⮞  I am highly focused and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Data Science, and many more to drive success in the technical world.
+ <br>
+⮞ Although I've worked on the integration of various technologies, my field of expertise lies in Linux, DevOps and, Cloud Computing.
+ <br>
+⮞ I've also been the mentor at GirlScript Summer of Code and Hack the Mountains Hackathon. 
+ <br>
+⮞ I've worked as an student ambassador at LinuxWorld Informatics Pvt Ltd and Hack the Mountains because helping others is the best way to help ourselves.
+ <br>
+⮞ And because I love opensource, I've been a contributor at Ansible Galaxy by building a [Kubernetes cluster using Ansible](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster). -->
+
 <!-- <h2 align="center">Stats </h2>
 
 <p>
