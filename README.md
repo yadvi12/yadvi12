@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 <!-- 
 ## So glad to see you here...AGAIN :)!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
-<h2 align="center"> So glad to see you here...AGAIN :)! </h2>
-
+<!-- <h2 align="center"> So glad to see you here...AGAIN :)! </h2>
+ -->
+ 
 ![jjjso](https://user-images.githubusercontent.com/60046892/162618347-c36f135b-075c-46bc-9099-c2a11abdb03f.PNG)
 
 Welcome to my profile! I'm a Computer Science student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yadvibhalla1210/)!
@@ -27,7 +28,7 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
  <img width="50%" height="50%" src="code.gif" alt="">
 </div>
   
-<h2 align="center"><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> A little more about me... </h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> A little more about me... </h2>
 
 ⮞ I am the 19th person in India to have completed the RedHat Global Certification EX180.
 <br>
@@ -105,7 +106,7 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
  <img height="30" width="30" src="https://img.icons8.com/color/48/000000/ansible.png"/>
 <!--   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ansible.svg" /> -->
  </p>
-<h2 align="center">Stats <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h2>
+<h2 align="center">Stats </h2>
 
 <p>
   <div>
