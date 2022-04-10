@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ![newh](https://user-images.githubusercontent.com/60046892/162619027-76a4af50-c6e6-4091-bb95-cc0de9136558.PNG)
 
-Welcome to my profile! I'm a Computer Science student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and full-time adventure seeker. 
+Welcome to my profile! I'm a Computer Science student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and a full-time adventure seeker. 
 
-I mainly code in CPP, but I do code in C and Python occasionally. During the year 2020, I fell in love💕 with DevOps and created more than eight projects in this field. Currently I am working on Cloud Computing Projects. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yadvibhalla1210/)!
+I mainly code in CPP, but I do code in C and Python occasionally. During the year 2020, I fell in love💕 with DevOps and created more than eight projects in this field. Currently, I am working on Cloud Computing Projects. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yadvibhalla1210/)!
 
 <!-- <div align = "center">
  <img width="50%" height="50%" src="code.gif" alt="">
@@ -51,9 +51,9 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
 
 ⮞ Aside from coding, I am also a Melophile. Spotify is my constant companion.
 <br>
-⮞ Writing blog posts about things that trip up people I mentor or something I am learning is one of my favorite pastimes. So don't forget to check out my digital garden🌷 at [Medium](https://medium.com/@iivday21) or [LinkedIn](https://www.linkedin.com/in/yadvibhalla1210/detail/recent-activity/posts/).
+⮞ Writing blog posts about things that trip up people I mentor or something I am learning is one of my favorite pastimes. So don't forget to check out my digital garden🌷 on [Medium](https://medium.com/@iivday21) or [LinkedIn](https://www.linkedin.com/in/yadvibhalla1210/detail/recent-activity/posts/).
 <br>
-⮞ As a side hustle, I am a Resume Writer and a LinkedIn Trainer. Having trouble revamping your LinkedIn profile or unsure what to include in your Resume? I can help.
+⮞ As a side hustle, I am a Resume Writer and a LinkedIn Trainer. Have trouble revamping your LinkedIn profile or unsure what to include in your Resume? I can help.
 <br> 
 
 <!-- ⮞ I am Yadvi and I love Linux. What fascinates me so much about Linux is the fact that Linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and code.
