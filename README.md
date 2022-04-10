@@ -31,7 +31,6 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
 
 I mainly code in CPP, but I do code in C and Python occasionally. During the year 2020, I fell in love💕 with DevOps and created more than eight projects in this field. Currently I am working on Cloud Computing Projects. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yadvibhalla1210/)!
 
-
 <!-- <div align = "center">
  <img width="50%" height="50%" src="code.gif" alt="">
 </div> -->
@@ -58,10 +57,6 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
 ⮞ As a side hustle, I am a Resume Writer and a LinkedIn Trainer. Having trouble revamping your LinkedIn profile or unsure what to include in your Resume? I can help.
 <br> 
 
-
-
-
-
 <!-- ⮞ I am Yadvi and I love Linux. What fascinates me so much about Linux is the fact that Linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and code.
  <br>
 ⮞  I am highly focused and eager to leverage the in-depth knowledge of high-end technical skills like DevOps, Cloud Computing, Big Data, Data Science, and many more to drive success in the technical world.
@@ -73,7 +68,6 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
 ⮞ I've worked as an student ambassador at LinuxWorld Informatics Pvt Ltd and Hack the Mountains because helping others is the best way to help ourselves.
  <br>
 ⮞ And because I love opensource, I've been a contributor at Ansible Galaxy by building a [Kubernetes cluster using Ansible](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster). -->
-
 
 <h2 align="center">Technologies I know</h2>
 
