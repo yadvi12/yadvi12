@@ -36,7 +36,7 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
  <img width="50%" height="50%" src="code.gif" alt="">
 </div> -->
   
-<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> A little more about me... </h2>
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Achievements </h2>
 
 ⮞ I am the 19th person in India to have completed the RedHat Global Certification EX180.
 <br>
