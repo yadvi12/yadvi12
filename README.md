@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 <!-- <h2 align="center"> So glad to see you here...AGAIN :)! </h2>
  -->
  
+![jd](https://user-images.githubusercontent.com/60046892/162618941-4e8a25f0-3d1d-49db-b577-7d0391a2a1ac.PNG)
+
 ![jjjso](https://user-images.githubusercontent.com/60046892/162618347-c36f135b-075c-46bc-9099-c2a11abdb03f.PNG)
 
-![lin](https://user-images.githubusercontent.com/60046892/162618784-64643984-8bbc-46a8-b41d-870046330b6a.PNG)
+
 
 
 Welcome to my profile! I'm a Computer Science student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yadvibhalla1210/)!
