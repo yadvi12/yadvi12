@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- 
-## So glad to see you here...AGAIN :)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+## So glad to see you here...AGAIN :)! 
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> So glad to see you here...AGAIN :)! </h2>
 
 ![jjjso](https://user-images.githubusercontent.com/60046892/162618347-c36f135b-075c-46bc-9099-c2a11abdb03f.PNG)
@@ -127,7 +127,7 @@ Welcome to my profile! I'm a Computer Science student at SRM University, Kattank
   
 
 <!--  
-## Stats
+## Stats <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
   
   
 <p>
