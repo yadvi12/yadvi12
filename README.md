@@ -42,12 +42,13 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
 <br>
 ⮞ Cleared the Azure AZ-900 Microsoft Global Certification.
 <br>
-⮞ Research Intern at Polytechnique Montréal, Québec, Canada as part of the Mitacs Globalink Research Internship 2022.
-<br>
-⮞ Since I love opensource, I've been a contributor at Ansible Galaxy. Check out my collection and do leave a [feedback score](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster)(I'd love your input🙃💜).
+⮞ Got selected as a Research Intern at Polytechnique Montréal, Québec, Canada as part of the Mitacs Globalink Research Internship 2022.
 <br>
 ⮞ Mentored more than five organizations and won the best mentor award at Hack The Mountains Hackathon.
 <br>
+⮞ Since I love opensource, I've been a contributor at Ansible Galaxy. Check out my collection and do leave a [feedback score](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster)(I'd love your input🙃💜).
+<br>
+
 <!-- ⮞ Aside from coding, I am also a Melophile.
 <br>
 ⮞ Writing blog posts about things that trip up people I mentor or something I am learning is one of my favorite pastimes. So don't forget to check out my digital garden🌷 at [Medium](https://medium.com/@iivday21) or [LinkedIn](https://www.linkedin.com/in/yadvibhalla1210/detail/recent-activity/posts/).
