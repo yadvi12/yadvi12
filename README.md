@@ -26,7 +26,8 @@ Here are some ideas to get you started:
  -->
 
 <!-- ![newh](https://user-images.githubusercontent.com/60046892/162619027-76a4af50-c6e6-4091-bb95-cc0de9136558.PNG) -->
-![Purple Gradient Clean Minimalist LinkedIn Banner](https://user-images.githubusercontent.com/60046892/170875185-f8b86ed4-0220-4ef6-9564-71977749057d.png)
+<!-- ![Purple Gradient Clean Minimalist LinkedIn Banner](https://user-images.githubusercontent.com/60046892/170875185-f8b86ed4-0220-4ef6-9564-71977749057d.png) -->
+![Purple Gradient Clean Minimalist LinkedIn Banner (1)](https://user-images.githubusercontent.com/60046892/170875375-cec935b9-f8e5-4c5c-82ab-44c4737c8632.png)
 
 
 Welcome to my profile! I'm a Computer Science student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and a full-time adventure seeker. 
