@@ -45,7 +45,6 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
 ⮞ 19th person in India to have completed the RedHat Global Certification EX180.
 <br>
 ⮞ Cleared the Azure AZ-900 Microsoft Global Certification.
-<br>
 <!-- ⮞ Got selected as a Research Intern at Polytechnique Montréal, Québec, Canada as part of the Mitacs Globalink Research Internship 2022.
 <br> -->
 ⮞ Mentored more than five organizations and won the best mentor award at Hack The Mountains Hackathon.
