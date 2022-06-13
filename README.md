@@ -45,12 +45,11 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
 ⮞ 19th person in India to have completed the RedHat Global Certification EX180.
 <br>
 ⮞ Cleared the Azure AZ-900 Microsoft Global Certification.
-<!-- ⮞ Got selected as a Research Intern at Polytechnique Montréal, Québec, Canada as part of the Mitacs Globalink Research Internship 2022.
-<br> -->
+<br> 
 ⮞ Mentored more than five organizations and won the best mentor award at Hack The Mountains Hackathon.
 <br>
 ⮞ Since I love opensource, I've been a contributor at Ansible Galaxy. Check out my collection and do leave a [feedback score](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster)(I'd love your input🙃💜).
-
+<!-- ⮞ Got selected as a Research Intern at Polytechnique Montréal, Québec, Canada as part of the Mitacs Globalink Research Internship 2022. -->
 <h2 align="center">Technologies I know</h2>
 
 <p align="center">
