@@ -50,8 +50,8 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
 <br>
 ⮞ Since I love opensource, I've been a contributor at Ansible Galaxy, largest opensource community at RedHat.
 
-<!-- ⮞ Got selected as a Research Intern at Polytechnique Montréal, Québec, Canada as part of the Mitacs Globalink Research Internship 2022. 
-<h2 align="center">Technologies I know</h2> -->
+<!-- ⮞ Got selected as a Research Intern at Polytechnique Montréal, Québec, Canada as part of the Mitacs Globalink Research Internship 2022. -->
+<h2 align="center">Technologies I know</h2> 
 
 <p align="center">
  <img src="https://img.icons8.com/color/50/000000/kubernetes.png" width="30"  height="30"/>
