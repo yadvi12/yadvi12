@@ -48,7 +48,8 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
 <br> 
 ⮞ Mentored more than five organizations and won the best mentor award at Hack The Mountains Hackathon.
 <br>
-⮞ Since I love opensource, I've been a contributor at Ansible Galaxy. Check out my collection and do leave a [feedback score](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster)(I'd love your input🙃💜).
+⮞ Since I love opensource, I've been a contributor at Ansible Galaxy, largest opensource community at RedHat. Check out my collection and do leave a [feedback score](https://galaxy.ansible.com/yadvi12/kubernetesmultinodecluster)(I'd love your input🙃💜).
+<br>
 ⮞ Got selected as a Research Intern at Polytechnique Montréal, Québec, Canada as part of the Mitacs Globalink Research Internship 2022. 
 <h2 align="center">Technologies I know</h2>
 
