@@ -46,7 +46,7 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
 <br>
 ⮞ Cleared the Azure AZ-900 Microsoft Global Certification.
 <br> 
-⮞ Mentored more than five organizations and won the best mentor award at Hack The Mountains Hackathon.
+⮞ Mentored more than eight organizations and won the best mentor award at Hack The Mountains Hackathon.
 <br>
 ⮞ Since I love opensource, I've been a contributor at Ansible Galaxy, largest opensource community at RedHat.
 <br>
