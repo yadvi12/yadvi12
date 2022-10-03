@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 <!-- ![Purple Gradient Clean Minimalist LinkedIn Banner](https://user-images.githubusercontent.com/60046892/170875185-f8b86ed4-0220-4ef6-9564-71977749057d.png) -->
 <!-- ![Purple Gradient Clean Minimalist LinkedIn Banner (1)](https://user-images.githubusercontent.com/60046892/170875375-cec935b9-f8e5-4c5c-82ab-44c4737c8632.png) -->
 <!-- ![Purple Gradient Clean Minimalist LinkedIn Banner (3)](https://user-images.githubusercontent.com/60046892/170883313-ae10a51f-77ff-4a9a-8b6d-1bfae7269887.gif) -->
-![Purple Gradient Clean Minimalist LinkedIn Banner (5)](https://user-images.githubusercontent.com/60046892/171798246-34ebb8a1-44ac-4c73-8c49-705a19ef0326.gif)
+<!--![Purple Gradient Clean Minimalist LinkedIn Banner (5)](https://user-images.githubusercontent.com/60046892/171798246-34ebb8a1-44ac-4c73-8c49-705a19ef0326.gif)-->
 <!-- ![Copy of Purple Gradient Clean Minimalist LinkedIn Banner](https://user-images.githubusercontent.com/60046892/170884108-71ccbd46-7298-44b2-b518-d933193f494e.gif) -->
+![Purple Gradient Clean Minimalist LinkedIn Banner (6)](https://user-images.githubusercontent.com/60046892/193509113-fa6f4f35-93cb-485c-9f53-7f33324f307a.gif)
 
 Welcome to my profile! I'm a Computer Science student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and a full-time adventure seeker. 
 
