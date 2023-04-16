@@ -102,7 +102,10 @@ Welcome to my GitHub profile, where I'm constantly learning, exploring, and buil
 When I'm not busy coding up a storm, you can find me on [LinkedIn](https://www.linkedin.com/in/yadvibhalla1210), creating content that motivates, educates, and inspires. From tech tips to inspirational musings, I love sharing my knowledge and experiences with others. I am a melophile, I'm always jamming out to new tunes on Spotify. Whether I'm working out, exploring new places, or just chilling out, there's always a killer playlist on in the background.
 <br> 
 <br>
-And if you need help with your LinkedIn profile or resume, I'm your go-to gal! I love helping others succeed and achieve their goals. So take a look around, see what I've been working on, and let's connect. Who knows, maybe we'll even end up collaborating on a project together someday!
+And if you need help with your LinkedIn profile or Resume, I'm your go-to gal! I love helping others succeed and achieve their goals. 
+<br> 
+<br>
+So take a look around, see what I've been working on, and let's connect. Who knows, maybe we'll even end up collaborating on a project together someday!
 
 <!-- ⮞ I am Yadvi and I love Linux. What fascinates me so much about Linux is the fact that Linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and code.
  <br>
