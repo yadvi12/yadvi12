@@ -33,9 +33,12 @@ Here are some ideas to get you started:
 <!-- ![Copy of Purple Gradient Clean Minimalist LinkedIn Banner](https://user-images.githubusercontent.com/60046892/170884108-71ccbd46-7298-44b2-b518-d933193f494e.gif) -->
 ![Purple Gradient Clean Minimalist LinkedIn Banner (7)](https://user-images.githubusercontent.com/60046892/193510400-fba298e4-4083-4751-9283-0d7fb1401ee6.gif)
 
-Welcome to my profile! I'm a Computer Science student at SRM University, Kattankulathur, Chennai, a technophile who wants to explore and learn the latest technologies to make lives better and a full-time adventure seeker. 
+Welcome to my GitHub profile, where I'm constantly learning, exploring, and building cool stuff! As a Software Engineer, I'm always striving to create something amazing. And speaking of adventures, I'm always up for trying new things and pushing myself out of my comfort zone. Whether it's trying a new cuisine, exploring a new city, or learning a new technology, I'm always down for a challenge. Who says coding can't be an adventure too, right? 🚀
 
-I mainly code in CPP, but I do code in C and Python occasionally. During the year 2020, I fell in love💕 with DevOps and created more than eight projects in this field. Currently, I am working on Cloud Computing Projects. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yadvibhalla1210/)!
+
+So take a look around, see what I've been working on, and let's connect. Who knows, maybe we'll even end up collaborating on a project together someday!
+
+ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yadvibhalla1210/)!
 
 <!-- <div align = "center">
  <img width="50%" height="50%" src="code.gif" alt="">
@@ -101,12 +104,9 @@ I mainly code in CPP, but I do code in C and Python occasionally. During the yea
 
 <h2 align="center"><img src= "https://user-images.githubusercontent.com/60046892/162620544-420e7cb8-8462-4228-99b8-12ae3de8343b.gif" width="60"/> What I do in my leisure time </h2>
 
-⮞ Aside from coding, I am also a Melophile. Spotify is my constant companion.
-<br>
-⮞ Writing blog posts about things that trip up people I mentor or something I am learning is one of my favorite pastimes. So don't forget to check out my digital garden🌷 on [Medium](https://medium.com/@iivday21) or [LinkedIn](https://www.linkedin.com/in/yadvibhalla1210/detail/recent-activity/posts/).
-<br>
-⮞ As a side hustle, I am a Resume Writer and a LinkedIn Trainer. Have trouble revamping your LinkedIn profile or unsure what to include in your Resume? I can help.
+When I'm not busy coding up a storm, you can find me on [LinkedIn](https://www.linkedin.com/in/yadvibhalla1210), creating content that motivates, educates, and inspires. From tech tips to inspirational musings, I love sharing my knowledge and experiences with others. I am also a melophile, I'm always jamming out to new tunes on Spotify. Whether I'm working out, exploring new places, or just chilling out, there's always a killer playlist on in the background.
 <br> 
+And if you need help with your LinkedIn profile or resume, I'm your go-to gal! I love helping others succeed and achieve their goals.
 
 <!-- ⮞ I am Yadvi and I love Linux. What fascinates me so much about Linux is the fact that Linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and code.
  <br>
