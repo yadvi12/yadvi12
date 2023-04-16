@@ -105,7 +105,7 @@ When I'm not busy coding up a storm, you can find me on [LinkedIn](https://www.l
 And if you need help with your LinkedIn profile or Resume, I'm your go-to gal! I love helping others succeed and achieve their goals. 
 <br> 
 <br>
-So take a look around, see what I've been working on, and let's connect. Who knows, maybe we'll even end up collaborating on a project together someday!
+So take a look around, see what I've been working on, and let's connect. Who knows, maybe we'll even end up collaborating on a project together someday! 😀
 
 <!-- ⮞ I am Yadvi and I love Linux. What fascinates me so much about Linux is the fact that Linux is open source and it has gained so much popularity in the corporate world. The spark I was missing ignited the moment I realized the power of open source and code.
  <br>
