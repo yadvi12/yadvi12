@@ -178,7 +178,7 @@ So take a look around, see what I've been working on, and let's connect. Who kno
 
 
   <p align="center">
-    <a href="https://twitter.com/ivday21" alt="Twitter"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" width="40"  height="40"/></a>
+    <a href="https://twitter.com/YadviBhalla" alt="Twitter"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" width="40"  height="40"/></a>
 <!--    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"> -->
     <a href="https://www.linkedin.com/in/yadvibhalla1210" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
 <!--    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"> -->
