@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!-- ![Copy of Purple Gradient Clean Minimalist LinkedIn Banner](https://user-images.githubusercontent.com/60046892/170884108-71ccbd46-7298-44b2-b518-d933193f494e.gif) -->
 ![Purple Gradient Clean Minimalist LinkedIn Banner (7)](https://user-images.githubusercontent.com/60046892/193510400-fba298e4-4083-4751-9283-0d7fb1401ee6.gif)
 
-Welcome to my GitHub profile, where I'm constantly learning, exploring, and building cool stuff! As a Software Engineer, I'm always striving to create something amazing. And speaking of adventures, I'm always up for trying new things, whether it's trying a new cuisine, exploring a new city, or learning a new technology. Who says coding can't be an adventure too, right? 🚀
+Welcome to my GitHub profile, where I'm constantly learning, exploring, and building cool stuff! As a Software Engineer, I'm always striving to create something amazing. And speaking of adventures, I'm always up for trying new things, whether it's trying new cuisine, exploring a new city, or learning new technology. Who says coding can't be an adventure too, right? 🚀
 
 <!-- <div align = "center">
  <img width="50%" height="50%" src="code.gif" alt="">
@@ -43,13 +43,13 @@ Welcome to my GitHub profile, where I'm constantly learning, exploring, and buil
 
 ⮞ 19th person in India to have completed the RedHat Global Certification EX180.
 <br>
-⮞ Cleared the Azure AZ-900 Microsoft Global Certification.
+⮞ Cleared the Azure AZ900 and AI900 Microsoft Global Certification.
 <br> 
 ⮞ Mentored more than eight organizations and won the best mentor award at Hack The Mountains Hackathon.
 <br>
-⮞ Since I love opensource, I've been a contributor at Ansible Galaxy, largest opensource community at RedHat.
+⮞ Since I love open source, I've been a contributor at Ansible Galaxy, the largest open-source community at RedHat.
 
-<!-- ⮞ Got selected as a Research Intern at Polytechnique Montréal, Québec, Canada as part of the Mitacs Globalink Research Internship 2022. -->
+<!-- ⮞ Got selected as a Research Intern at Polytechnique Montréal, Québec, Canada, as part of the Mitacs Globalink Research Internship 2022. -->
 <h2 align="center">Technologies I know</h2> 
 
 <p align="center">
