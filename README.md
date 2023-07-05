@@ -191,5 +191,5 @@ So take a look around, see what I've been working on, and let's connect. Who kno
   </p>
 </p>
 <p align="center">
-  <img src="good day.JPG" width="110"  height="160"/>
+  <img src="see you.JPG" width="130"  height="180"/>
 </p>
