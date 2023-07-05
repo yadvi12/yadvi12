@@ -190,3 +190,6 @@ So take a look around, see what I've been working on, and let's connect. Who kno
     
   </p>
 </p>
+<p align="center">
+  <img src="Blue_Modern_Post_Carousel_Tips_LinkedIn_Carousel-removebg-preview.png" width="40"  height="40"/>
+</p>
