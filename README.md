@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 <!-- ![Copy of Purple Gradient Clean Minimalist LinkedIn Banner](https://user-images.githubusercontent.com/60046892/170884108-71ccbd46-7298-44b2-b518-d933193f494e.gif) -->
 ![Purple Gradient Clean Minimalist LinkedIn Banner (7)](https://user-images.githubusercontent.com/60046892/193510400-fba298e4-4083-4751-9283-0d7fb1401ee6.gif)
 
+
 Welcome to my GitHub profile, where I'm constantly learning, exploring, and building cool stuff! As a Software Engineer, I'm always striving to create something amazing. And speaking of adventures, I'm always up for trying new things, whether it's trying new cuisine, exploring a new city, or learning new technology. Who says coding can't be an adventure too, right? 🚀
 
 <!-- <div align = "center">
@@ -188,7 +189,7 @@ So take a look around, see what I've been working on, and let's connect. Who kno
 <!--    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"> -->
     
   </p>
-
+![Blue_Modern_Post_Carousel_Tips_LinkedIn_Carousel-removebg-preview](https://github.com/yadvi12/yadvi12/assets/60046892/b220d636-ce49-4cff-9de3-7895a49ee7da)
  
 </p>
 
