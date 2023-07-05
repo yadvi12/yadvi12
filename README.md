@@ -189,7 +189,8 @@ So take a look around, see what I've been working on, and let's connect. Who kno
 <!--    <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"> -->
     
   </p>
-![Blue_Modern_Post_Carousel_Tips_LinkedIn_Carousel-removebg-preview](https://github.com/yadvi12/yadvi12/assets/60046892/b220d636-ce49-4cff-9de3-7895a49ee7da)
+
  
 </p>
 
+![Blue_Modern_Post_Carousel_Tips_LinkedIn_Carousel-removebg-preview](https://github.com/yadvi12/yadvi12/assets/60046892/b220d636-ce49-4cff-9de3-7895a49ee7da)
