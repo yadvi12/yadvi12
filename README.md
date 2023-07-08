@@ -42,7 +42,7 @@ Welcome to my GitHub profile, where I'm constantly learning, exploring, and buil
   
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Achievements </h2>
 
-⮞ 19th person in India to have completed the RedHat Global Certification EX180.
+⮞ 19th person in India to complete the RedHat Global Certification EX180.
 <br>
 ⮞ Cleared the Azure AZ900 and AI900 Microsoft Global Certification.
 <br> 
